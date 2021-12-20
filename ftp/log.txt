@@ -1,0 +1,13 @@
+Прослушиваем порт 6666
+request: elena=login123=password\=cur_dir0=file_sizels
+response: 
+request: elena=login123=password\=cur_dir0=file_sizemkdir pup
+response: successfully
+request: elena=login123=password\=cur_dir0=file_sizels
+response: pup
+request: elena=login123=password\=cur_dir0=file_sizermtree pup
+response: successfully
+request: elena=login123=password\=cur_dir0=file_sizetouch file.txt
+response: successfully
+request: elena=login123=password\=cur_dir0=file_sizerename file.txt renamed.txt
+response: successfully
